@@ -1,0 +1,271 @@
+================================================================================
+NCL Pro Non-Commercial Open License 1.0.0
+Official Website: http://www.0988890.xyz
+================================================================================
+
+--------------------------------------------------------------------------------
+PREAMBLE
+--------------------------------------------------------------------------------
+
+This is an open license, not an open source license. The term "open" in this
+license refers only to the permissions granted herein and does not imply or
+invoke the open source definition.
+
+This license is a non-commercial license that permits the work to be shared,
+used, modified, and distributed free of charge for non-commercial purposes
+only. Commercial use is prohibited for all parties, including the original
+author.
+
+"Non-commercial" means any use primarily intended for or directed toward
+commercial advantage or monetary compensation is prohibited.
+
+"Free-sharing" means the work may be freely accessed, copied, modified, and
+distributed by any person, provided that all such activities remain within the
+scope of non-commercial purposes and comply with the terms of this license.
+
+By adopting NCL Pro, the original author makes a public commitment never to
+commercialize the work. The original author retains the legal right to change
+the license, but doing so constitutes a violation of this public commitment.
+
+--------------------------------------------------------------------------------
+
+This license is a general-purpose non-commercial license applicable to any type
+of work, including but not limited to source code packages, video works, audio
+works, documents, images, datasets, model weights, and other copyrightable
+works.
+
+The license may be cited in any form, provided that the cited version is an
+unmodified version of NCL Pro. You may either self-host the unmodified full
+text or link to the official NCL website at http://www.0988890.xyz. Anyone who
+receives the work must be able to find and read the unmodified license text.
+
+The full text of this license is the legally operative "legal code." Any
+human-readable summaries, explanations, or descriptions of this license
+elsewhere, including on the official website, are provided for informational
+purposes only and are not legally binding. In case of any discrepancy between
+the legal code and any summary, the legal code prevails.
+
+All language versions of this license are equally authoritative. In case of any
+discrepancy between language versions, the English version shall prevail.
+
+1. GRANT OF RIGHTS
+
+You are granted the rights to view, copy, modify, distribute, and privately use
+the work, provided that all use is for non-commercial purposes only.
+
+Distribution is permitted only free of charge. You may not charge any fee for
+the work itself, except for the actual and verifiable cost of physical
+distribution media.
+
+2. PROHIBITION OF COMMERCIAL USE
+
+Commercial Use is prohibited for all parties, including the original author.
+"Commercial Use" means any use primarily intended for or directed toward
+commercial advantage or monetary compensation. This includes, but is not
+limited to:
+
+- Selling, licensing, or sublicensing the work for a fee
+- Incorporating the work into a commercial product or service
+- Using the work to generate revenue directly or indirectly
+- Using the work to train or develop commercial AI, machine learning models,
+  or large language models
+- Using the work in any automated service, SaaS platform, or cloud offering
+  that generates revenue
+- Using the work internally within a for-profit organization to support
+  revenue-generating activities
+- Charging for access to the work, including paywalled documentation, paid
+  support, or training services centered on the work
+- Monetizing the work through advertising or sponsorships
+- Bundling the work with paid products or services
+- Data monetization derived from the work
+
+The following are NOT considered Commercial Use:
+
+- Personal learning and education
+- Academic research at non-profit institutions
+- Open source contributions without monetary compensation
+- Content creation (teaching, streaming, educational materials) even if it
+  generates incidental revenue
+- Charging only for the actual, verifiable cost of physical distribution media
+
+If a use has both commercial and non-commercial purposes, it shall be deemed
+Commercial Use if the primary purpose at the time of use is commercial.
+
+Whether a particular use is commercial depends on the specific circumstances
+and the intent of the user.
+
+3. AUTHOR'S PUBLIC COMMITMENT
+
+By adopting NCL Pro, the original author makes a public commitment to the
+public that the work will never be commercialized by any party, including the
+original author.
+
+If the original author violates this commitment, any person may publicly cite
+this section as evidence that the author has violated the public commitment
+made under this license.
+
+4. PROHIBITION OF COPYRIGHT TRANSFER
+
+The original author may not transfer the copyright of the work. Any purported
+transfer of copyright is void. The work must remain under NCL Pro in
+perpetuity.
+
+5. NO COMMERCIAL AUTHORIZATION
+
+No commercial authorization may be granted under NCL Pro, by the original
+author or by any other party. The work is permanently non-commercial.
+
+The original author may not re-license the work under any license other than
+NCL Pro. If the original author does so, this license remains in full force and
+effect for all persons who have already received the work under NCL Pro. The
+original author may not claim infringement against such persons.
+
+6. ATTRIBUTION REQUIREMENT
+
+Modified versions must retain the original author's attribution in the primary
+carrier of the work. For source code packages, this means all source code
+files. For video works, this means the video itself or its description. For
+audio works, this means the metadata or accompanying description. For documents
+and images, this means the document itself or the publication page.
+
+When the work is distributed to the public or publicly displayed, the
+distributor must clearly indicate that it is based on work originally created
+by the original author and licensed under NCL Pro.
+
+You may not use the name, trademarks, or branding of the original author to
+endorse or promote your derivative work without explicit permission.
+
+7. ADDITIONAL TERMS
+
+The licensee may add their own additional terms, which must not conflict with
+the core terms of this license. The additional terms may be declared in any
+form, including but not limited to a separate file, video description,
+metadata, publication page text, social media statement, or any other form
+that can be clearly accessed by recipients of the work.
+
+If any additional term conflicts with the core terms of this license, the core
+terms shall prevail. The additional terms must not modify the LICENSE file
+itself.
+
+8. ANTI-CIRCUMVENTION AND TECHNICAL RESTRICTIONS
+
+Any attempt to circumvent the terms of this license through technical means is
+strictly prohibited. This includes code obfuscation, variable or function
+renaming, extracting and reassembling portions of the work, or any other
+modification whose primary purpose is to conceal the origin of the work or
+evade compliance with this license. Translating the work into another language
+or format is prohibited only when such translation is primarily intended to
+circumvent the terms of this license.
+
+Whether a translation is primarily intended to circumvent this license shall
+be initially determined by the original author. The licensee may present
+evidence to rebut this determination.
+
+You may not distribute, publicly display, or otherwise make available the work
+with any technological measures that alter, restrict, or prevent the exercise
+of the rights granted under this license. Such acts constitute a material
+breach.
+
+9. COPYLEFT REQUIREMENT
+
+Any modified version of the work must be released under the same license (NCL
+Pro) or a license that is fully compatible with NCL Pro's non-commercial terms.
+Licenses that permit commercial use, including but not limited to GPL, MIT,
+Apache, BSD, and MPL, are NOT compatible with NCL Pro.
+
+Modified works may only be distributed under NCL Pro or another license that
+contains the same non-commercial restrictions. If the modifier adds their own
+new content, those additions may be released under a different license of the
+modifier's choice, provided that the original NCL Pro-licensed portion remains
+under NCL Pro, the NCL Pro license text itself is not modified, and the
+derivative work as a whole clearly indicates which parts are governed by NCL
+Pro and which parts are governed by other licenses.
+
+10. IRREVOCABLE GRANT
+
+Once the work has been released under this license, the rights granted to any
+person who has received the work are irrevocable. The original author may not
+revoke these rights by re-licensing the work, transferring the copyright, or
+any other means.
+
+11. LICENSE TERMINATION AND REINSTATEMENT
+
+Any violation results in automatic termination of this license, effective
+immediately. Upon termination, the licensee must cease all use, distribution,
+and modification of the work.
+
+If the licensee ceases all violation and comes into full compliance with this
+license within 15 days after receiving written notice of the violation from the
+original author, the license shall be automatically reinstated. Reinstatement
+is retroactive, and the license shall be treated as if it had never been
+terminated. This reinstatement does not apply if the original author has
+previously notified the licensee of a violation of this license and the
+licensee has failed to cure within the applicable period.
+
+The provisions regarding disclaimer of warranties, limitation of liability,
+and indemnification shall survive termination.
+
+12. ENFORCEMENT
+
+License enforcement and legal remedies shall be undertaken solely by the
+original author. The original author must independently handle any breach of
+contract, including but not limited to pursuing legal action, retaining legal
+counsel, and bearing all associated costs. The license drafter and the NCL Team
+assume no responsibility for enforcement, legal action, or any disputes arising
+from the use of this work.
+
+13. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE WORK IS PROVIDED "AS
+IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS WORK, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+In jurisdictions where consumer protection laws apply, nothing in this
+disclaimer shall exclude or limit any warranty or liability that cannot be
+excluded or limited under such laws.
+
+14. GOVERNING LAW
+
+This license does not prescribe any specific governing law. If the original
+author does not designate a governing law through additional terms, this
+license shall be interpreted in accordance with the laws of the original
+author's principal place of business. If such place cannot be determined, the
+English version of this license shall be used for interpretive purposes.
+
+15. SEVERABILITY
+
+If any provision of this license is held to be invalid or unenforceable by a
+court of competent jurisdiction, that provision shall be enforced to the
+maximum extent permitted by law, and the remaining provisions shall remain in
+full force and effect.
+
+16. NO WAIVER
+
+The failure of the original author to exercise or enforce any right or
+provision of this license shall not constitute a waiver of such right or
+provision.
+
+17. ENTIRE AGREEMENT
+
+This license, together with any additional terms, constitutes the entire
+agreement between the parties with respect to the work and supersedes all prior
+understandings, whether written or oral.
+
+18. UPDATE NOTICE
+
+This license may be revised from time to time without prior notice. After a new
+version is released, the old version remains valid. The terms of the new
+license apply only to projects adopting the new version and do not retroactively
+apply to projects using the old version.
+
+Any published version of this license must include the version number in its
+title. The title, including the version number, is part of the legal code and
+must not be altered.
+
+Authors are strongly advised to add their own additional terms to avoid gaps in
+protection, or to promptly update to the latest license version to mitigate
+enforcement risks.
